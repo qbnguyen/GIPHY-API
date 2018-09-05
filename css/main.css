@@ -1,8 +1,25 @@
 body {
     background-color: lightgray;
-}
-
-#gifButtons{
-    
    
 }
+
+h1{
+    text-align: center;
+}
+
+
+
+.form-group{
+    float: right;
+    
+}
+
+#formButton{
+    float: right;
+}
+
+.animalButtons{
+    padding: 10px;
+    margin: 10px;
+}
+

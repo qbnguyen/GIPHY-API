@@ -1,5 +1,5 @@
 //create var to hold animals in
-var topic = ["cat", "dog", "skunk", "parrot"];
+var topic = ["cat", "dog", "skunk", "parrot", "unicorn", "turtle","monkey", "elephant"];
 //loop through array to display buttons
 function createButtons(){
     $("#gifButtons").empty();
